@@ -9,3 +9,8 @@ Train a softmax classifier with these feature representations to classify the di
 Created another fully connected network with same dimensions [784, 200, 10] and initialize it with random values.Trained it with 1000 labeled samples from MNIST. 
 
 Using these two networks, computed the classification accuracies for the unlabeled data.To compare the performance between them, in this competition sparse-autoencoder network[1] won.
+
+# how to run the code
+1. Clone the project
+2. run 'download_mnist.sh'
+3. run 'sparseae__ssl.py'
