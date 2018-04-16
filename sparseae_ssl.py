@@ -1,3 +1,5 @@
+# TensorFlow 1.7.0
+
 import numpy as np
 from load_dataset import mnist
 import matplotlib.pyplot
