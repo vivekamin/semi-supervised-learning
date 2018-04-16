@@ -13,4 +13,4 @@ Using these two networks, computed the classification accuracies for the unlabel
 # how to run the code
 1. Clone the project
 2. run 'download_mnist.sh'
-3. run 'sparseae__ssl.py'
+3. run 'sparseae_ssl.py'
